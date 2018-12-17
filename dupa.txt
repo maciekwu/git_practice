@@ -1,1 +1,2 @@
 "zobaczymy jak zrobisz ten merge cioto" 
+udalo sie?
